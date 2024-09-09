@@ -1,3 +1,9 @@
+"""
+Created on Monday 09/09/24
+
+@author: Victor Mendoza
+"""
+
 Ventas = [[0 for _ in range(13)] for _ in range(3)]
     
 print("La siguiente matriz almacena las ventas por mes de cada departamento")
