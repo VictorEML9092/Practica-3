@@ -4,7 +4,7 @@ Created on Monday 09/09/24
 @author: Victor Mendoza
 """
 
-# Vector que contendra las ventas
+# Matriz que contendra las ventas
 Ventas = [[0 for _ in range(13)] for _ in range(3)]
 # Función para pedir las ventas por mes y departamento
 def Ingresar_ventas():
